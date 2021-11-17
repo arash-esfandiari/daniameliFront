@@ -5,15 +5,15 @@ import CarouselPage2 from './banner/Home2_banner';
 
 
 export class Home2 extends Component {
-     render() {
-        
+    render() {
+
         return (
-          <div>
-            <Header /> 
-            <CarouselPage2 />
-            <Home2_mainpage />
-          </div>
-          
+            <div>
+                <Header />
+                <CarouselPage2 />
+                <Home2_mainpage />
+            </div>
+
         )
     }
 }
